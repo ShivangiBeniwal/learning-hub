@@ -62,7 +62,7 @@ form{
 .dropdown:hover > .drop-nav{
     display: block;
 }
-/*.dropdown:visited > .drop-nav{display: block;}*/
+
 .logi{
     width: 190px;
     padding: 5px 0px;
